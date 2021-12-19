@@ -1,5 +1,8 @@
 # KI-max\_julien
 
+## Github Link:
+https://github.com/chippisc/KI-max_julien
+
 Programmentwurf Künstliche Intelligen
 
 - Zuteilung an  Julien Steininger Maximilian Wilhelm
